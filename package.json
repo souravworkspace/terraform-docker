@@ -1,6 +1,6 @@
 {
   "name": "terraform-docker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Docker with terraform and bash",
   "repository": "git@github.com:souravworkspace/terraform-docker.git",
   "author": "Sourav Halder",
